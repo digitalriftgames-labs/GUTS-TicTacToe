@@ -1,0 +1,4 @@
+﻿<Solution>
+  <Project Path="GUTS.TicTacToe.Unity.csproj" />
+  <Project Path="GUTS.TicTacToe.Engine.csproj" />
+</Solution>

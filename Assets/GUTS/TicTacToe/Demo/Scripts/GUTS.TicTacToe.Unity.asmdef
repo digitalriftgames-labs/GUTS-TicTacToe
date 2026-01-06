@@ -1,0 +1,17 @@
+{
+    "name": "GUTS.TicTacToe.Unity",
+    "rootNamespace": "GUTS.TicTacToe.Unity",
+    "references": [
+        "GUID:49b67c913010f8e4987c3e03702864bd",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
