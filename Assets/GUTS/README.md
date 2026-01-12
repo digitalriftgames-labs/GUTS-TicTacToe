@@ -57,7 +57,7 @@ Each module includes its own README with deeper details.
 
 ## Current Modules
 
-### TicTacToe
+### TicTacToe > [README.md](TicTacToe/README.md)
 A complete implementation of TicTacToe featuring:
 - A deterministic engine
 - Multi‑line win detection

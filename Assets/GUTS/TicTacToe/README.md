@@ -28,7 +28,7 @@ Each folder contains its own README with deeper details.
 
 ## Architecture Summary
 
-### Engine Layer
+### Engine Layer > [README.md](Engine/README.md)
 A deterministic, framework‑agnostic implementation of TicTacToe.
 
 Handles:
@@ -41,7 +41,7 @@ Handles:
 
 The engine is intentionally simple, readable, and easy to extend.
 
-### Demo Layer
+### Demo Layer > [README.md](Demo/README.md)
 A Unity‑based example showing how to present the engine visually.
 
 Includes:
