@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Hierarchy
   m_RootView: {fileID: 11}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -67,8 +67,8 @@ MonoBehaviour:
     y: 764
     width: 1920
     height: 253
-  m_MinSize: {x: 900, y: 216}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 900, y: 240}
+  m_MaxSize: {x: 4000, y: 4024}
   m_ActualView: {fileID: 22}
   m_Panes:
   - {fileID: 20}
@@ -172,8 +172,8 @@ MonoBehaviour:
     y: 0
     width: 613
     height: 764
-  m_MinSize: {x: 100, y: 20}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 101, y: 48}
+  m_MaxSize: {x: 4001, y: 4028}
   m_ActualView: {fileID: 33}
   m_Panes:
   - {fileID: 33}
@@ -224,8 +224,8 @@ MonoBehaviour:
     y: 0
     width: 1307
     height: 764
-  m_MinSize: {x: 100, y: 100}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 101, y: 128}
+  m_MaxSize: {x: 4001, y: 4028}
   m_ActualView: {fileID: 23}
   m_Panes:
   - {fileID: 21}
@@ -428,8 +428,8 @@ MonoBehaviour:
     y: 0
     width: 467
     height: 627
-  m_MinSize: {x: 102, y: 46}
-  m_MaxSize: {x: 4002, y: 4026}
+  m_MinSize: {x: 100, y: 20}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 28}
   m_Panes:
   - {fileID: 28}
@@ -712,10 +712,10 @@ MonoBehaviour:
       displayed: 1
       id: Play Mode Controls
       index: 0
-      contents: '{"m_Layout":4,"m_Collapsed":false,"m_Folded":false,"m_Floating":false,"m_FloatingSnapOffset":{"x":-936.0,"y":-36.0},"m_SnapOffsetDelta":{"x":0.0,"y":0.0},"m_FloatingSnapCorner":3,"m_Size":{"x":0.0,"y":0.0},"m_SizeOverridden":false}'
+      contents: '{"m_Layout":4,"m_Collapsed":false,"m_Folded":false,"m_Floating":false,"m_FloatingSnapOffset":{"x":-932.0,"y":-36.0},"m_SnapOffsetDelta":{"x":0.0,"y":0.0},"m_FloatingSnapCorner":3,"m_Size":{"x":0.0,"y":0.0},"m_SizeOverridden":false}'
       floating: 0
       collapsed: 0
-      snapOffset: {x: -936, y: -36}
+      snapOffset: {x: -932, y: -36}
       snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 3
       layout: 4
@@ -1132,7 +1132,7 @@ MonoBehaviour:
         m_PaneScroll: {x: 0, y: 0}
         m_ViewType: 1
         updateViewLive: 0
-        m_CurrentFrameIndex: 10743
+        m_CurrentFrameIndex: 3577
         m_HierarchyOverruledThreadFromSelection: 0
         m_ProfilerViewFilteringOptions: 1
         m_FrameDataHierarchyView:
@@ -3590,15 +3590,18 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs:
-      - m_Data: 23834
+      m_SelectedIDs: []
       m_LastClickedID:
         m_Data: 0
       m_ExpandedIDs:
-      - m_Data: -20440
-      - m_Data: -20080
-      - m_Data: -19264
-      - m_Data: -1298
+      - m_Data: -10028
+      - m_Data: -9698
+      - m_Data: -8886
+      - m_Data: -6610
+      - m_Data: -4112
+      - m_Data: 46684
+      - m_Data: 47152
+      - m_Data: 47458
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -3673,7 +3676,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/GUTS/TicTacToe/Demo/Scripts
+    - Assets/GUTS/TicTacToe/Demo/_Scenes
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -3683,7 +3686,7 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/GUTS/TicTacToe/Demo/Scripts
+  - Assets/GUTS/TicTacToe/Demo/_Scenes
   m_LastFoldersGridSize: 16
   m_LastProjectPath: D:\Development\Unity\2026\GUTS - Tic Tac Toe
   m_LockTracker:
@@ -3692,17 +3695,17 @@ MonoBehaviour:
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs:
-    - m_Data: 46284
+    - m_Data: 47036
     m_LastClickedID:
-      m_Data: 46284
+      m_Data: 47036
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 46108
-    - m_Data: 46110
-    - m_Data: 46112
-    - m_Data: 46114
-    - m_Data: 46116
-    - m_Data: 46118
+    - m_Data: 46848
+    - m_Data: 46850
+    - m_Data: 46852
+    - m_Data: 46854
+    - m_Data: 46856
+    - m_Data: 46858
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -3735,12 +3738,12 @@ MonoBehaviour:
       m_Data: 0
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 46108
-    - m_Data: 46110
-    - m_Data: 46112
-    - m_Data: 46114
-    - m_Data: 46116
-    - m_Data: 46118
+    - m_Data: 46848
+    - m_Data: 46850
+    - m_Data: 46852
+    - m_Data: 46854
+    - m_Data: 46856
+    - m_Data: 46858
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -3767,9 +3770,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs:
-    - m_Data: 23834
-    m_LastClickedInstanceID: 23834
+    m_SelectedInstanceIDs: []
+    m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs:
     - m_Data: 36226
